@@ -276,4 +276,4 @@ function enable_you_should_use() {
 }
 
 autoload -Uz add-zsh-hook
-enable_you_should_use
+enable_zsh_you_should_use
